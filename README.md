@@ -17,8 +17,3 @@ Al ser un notebook de Jupyter, se puede trabajar directamente desde Anaconda o d
 El listado completo de librerias necesarias se encuentra en el archivo botstrap.sh, que se puede ejecutar directamente en el arranque de un container o unas instancia EMR.
 
 En caso de trabajar en un entorno en el que ya se encuentren las librerias más comunes instaladas, he resuelto además las dependencias más específicas dentro del propio notebook. Celdas qeu habria que eliminar al llevarlo a producción.
-
-=======
-# bixi-data_analysis
-Data analysis of Bixi. Data source from Kaggle.
->>>>>>> c7a06f4f0016061e722be0f8f808321f079bb9ed
